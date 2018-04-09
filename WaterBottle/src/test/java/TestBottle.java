@@ -7,7 +7,6 @@ import static org.junit.Assert.assertEquals;
 public class TestBottle {
     Bottle bottle;
 
-aa
     @Before
     public void before() {
         bottle = new Bottle(100);
@@ -25,12 +24,12 @@ aa
 
     @Test
     public void emptyBottle(){
-
+        assertEquals(0, bottle.getVolume);
     }
 
     @Test
     public void fillBottle(){
-    
+
     }
 
 }

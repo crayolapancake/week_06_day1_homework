@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ae3687b4-ba18-48a2-8bd3-38ccd3dfd9bb" name="Default" comment="" />
+    <list default="true" id="7720839c-3bb3-4254-b819-a8c83476ca08" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -18,21 +18,21 @@
     </projectState>
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.556062">
+    <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
         <leaf>
-          <file leaf-file-name="Bottle.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/main/java/Bottle.java">
+          <file leaf-file-name="Calculator.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/main/java/Calculator.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="75">
-                  <caret line="5" column="17" lean-forward="true" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+                <state relative-caret-position="135">
+                  <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
                   <folding>
-                    <element signature="e#85#86#0" expanded="true" />
-                    <element signature="e#120#121#0" expanded="true" />
-                    <element signature="e#154#155#0" expanded="true" />
-                    <element signature="e#175#176#0" expanded="true" />
-                    <element signature="e#374#375#0" expanded="true" />
-                    <element signature="e#400#401#0" expanded="true" />
+                    <element signature="e#128#129#0" expanded="true" />
+                    <element signature="e#161#162#0" expanded="true" />
+                    <element signature="e#300#301#0" expanded="true" />
+                    <element signature="e#334#335#0" expanded="true" />
+                    <element signature="e#379#380#0" expanded="true" />
+                    <element signature="e#413#414#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -42,21 +42,23 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="TestBottle.java" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/test/java/TestBottle.java">
+          <file leaf-file-name="CalculatorTest.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/test/java/CalculatorTest.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="308">
-                  <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+                <state relative-caret-position="543">
+                  <caret line="43" selection-start-line="43" selection-end-line="43" />
                   <folding>
                     <element signature="imports" expanded="true" />
-                    <element signature="e#180#181#0" expanded="true" />
-                    <element signature="e#217#218#0" expanded="true" />
-                    <element signature="e#260#261#0" expanded="true" />
-                    <element signature="e#311#312#0" expanded="true" />
-                    <element signature="e#354#355#0" expanded="true" />
+                    <element signature="e#145#146#0" expanded="true" />
+                    <element signature="e#189#190#0" expanded="true" />
+                    <element signature="e#225#226#0" expanded="true" />
+                    <element signature="e#242#243#0" expanded="true" />
                     <element signature="e#384#385#0" expanded="true" />
-                    <element signature="e#442#443#0" expanded="true" />
-                    <element signature="e#464#465#0" expanded="true" />
+                    <element signature="e#449#450#0" expanded="true" />
+                    <element signature="e#490#491#0" expanded="true" />
+                    <element signature="e#552#553#0" expanded="true" />
+                    <element signature="e#590#591#0" expanded="true" />
+                    <element signature="e#650#651#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -72,11 +74,6 @@
         <option value="Class" />
       </list>
     </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <replaceStrings>
-      <replace />
-    </replaceStrings>
   </component>
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
@@ -94,14 +91,14 @@
         <entry>
           <key>
             <ExternalProjectPojo>
-              <option name="name" value="waterbottle" />
+              <option name="name" value="calculator" />
               <option name="path" value="$PROJECT_DIR$" />
             </ExternalProjectPojo>
           </key>
           <value>
             <list>
               <ExternalProjectPojo>
-                <option name="name" value="waterbottle" />
+                <option name="name" value="calculator" />
                 <option name="path" value="$PROJECT_DIR$" />
               </ExternalProjectPojo>
             </list>
@@ -115,7 +112,7 @@
           <value>
             <list>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the components produced by root project 'waterbottle'. [incubating]" />
+                <option name="description" value="Displays the components produced by root project 'calculator'. [incubating]" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="components" />
               </ExternalTaskPojo>
@@ -125,7 +122,7 @@
                 <option name="name" value="buildDependents" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the sub-projects of root project 'waterbottle'." />
+                <option name="description" value="Displays the sub-projects of root project 'calculator'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="projects" />
               </ExternalTaskPojo>
@@ -135,12 +132,12 @@
                 <option name="name" value="classes" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the dependent components of components in root project 'waterbottle'. [incubating]" />
+                <option name="description" value="Displays the dependent components of components in root project 'calculator'. [incubating]" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="dependentComponents" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays all buildscript dependencies declared in root project 'waterbottle'." />
+                <option name="description" value="Displays all buildscript dependencies declared in root project 'calculator'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="buildEnvironment" />
               </ExternalTaskPojo>
@@ -165,7 +162,7 @@
                 <option name="name" value="jar" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the configuration model of root project 'waterbottle'. [incubating]" />
+                <option name="description" value="Displays the configuration model of root project 'calculator'. [incubating]" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="model" />
               </ExternalTaskPojo>
@@ -175,7 +172,7 @@
                 <option name="name" value="processResources" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the tasks runnable from root project 'waterbottle'." />
+                <option name="description" value="Displays the tasks runnable from root project 'calculator'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="tasks" />
               </ExternalTaskPojo>
@@ -195,7 +192,7 @@
                 <option name="name" value="compileJava" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the insight into a specific dependency in root project 'waterbottle'." />
+                <option name="description" value="Displays the insight into a specific dependency in root project 'calculator'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="dependencyInsight" />
               </ExternalTaskPojo>
@@ -220,7 +217,7 @@
                 <option name="name" value="compileTestJava" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays all dependencies declared in root project 'waterbottle'." />
+                <option name="description" value="Displays all dependencies declared in root project 'calculator'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="dependencies" />
               </ExternalTaskPojo>
@@ -245,7 +242,7 @@
                 <option name="name" value="buildNeeded" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the properties of root project 'waterbottle'." />
+                <option name="description" value="Displays the properties of root project 'calculator'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="properties" />
               </ExternalTaskPojo>
@@ -256,11 +253,11 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="6093148230000" />
+        <entry key="$PROJECT_DIR$" value="6093160495000" />
         <entry key="$PROJECT_DIR$/.gradle" value="0" />
-        <entry key="$PROJECT_DIR$/build.gradle" value="3475618283" />
+        <entry key="$PROJECT_DIR$/build.gradle" value="1652699938" />
         <entry key="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" value="1741342742" />
-        <entry key="$PROJECT_DIR$/settings.gradle" value="2395646993" />
+        <entry key="$PROJECT_DIR$/settings.gradle" value="2819388502" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -279,7 +276,7 @@
                   </entry>
                 </map>
               </option>
-              <option name="name" value="waterbottle" />
+              <option name="name" value="calculator" />
               <option name="projectBuildClasspath">
                 <list>
                   <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.4-bin/bgaq7vklkazwgxox0hdadxbvi/gradle-4.4/lib/ant-1.9.9.jar" />
@@ -374,14 +371,15 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/Bottle.java" />
-        <option value="$PROJECT_DIR$/src/test/java/TestBottle.java" />
+        <option value="$PROJECT_DIR$/src/test/java/CalculatorTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Calculator.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="y" value="258" />
-    <option name="width" value="1262" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="29" />
+    <option name="y" value="23" />
+    <option name="width" value="1167" />
     <option name="height" value="741" />
   </component>
   <component name="ProjectView">
@@ -389,40 +387,35 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="waterbottle" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WaterBottle" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="calculator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Calculator" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
-              <item name="waterbottle" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WaterBottle" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="calculator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Calculator" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="waterbottle" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WaterBottle" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="waterbottle" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WaterBottle" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="calculator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Calculator" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="waterbottle" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WaterBottle" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="calculator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Calculator" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
-              <item name="waterbottle" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WaterBottle" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="calculator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Calculator" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -431,9 +424,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -451,35 +442,18 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TestBottle.hasVolume">
+  <component name="RunManager">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="TestBottle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="waterbottle_test" />
+    <configuration name="All in calculator_test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="calculator_test" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestBottle" />
+      <option name="MAIN_CLASS_NAME" />
       <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="TestBottle.hasVolume" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="waterbottle_test" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TestBottle" />
-      <option name="METHOD_NAME" value="hasVolume" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="TEST_OBJECT" value="package" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -527,14 +501,9 @@
       <properties />
       <listeners />
     </configuration>
-    <list>
-      <item itemvalue="JUnit.TestBottle" />
-      <item itemvalue="JUnit.TestBottle.hasVolume" />
-    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TestBottle.hasVolume" />
-        <item itemvalue="JUnit.TestBottle" />
+        <item itemvalue="JUnit.All in calculator_test" />
       </list>
     </recent_temporary>
   </component>
@@ -543,27 +512,24 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ae3687b4-ba18-48a2-8bd3-38ccd3dfd9bb" name="Default" comment="" />
-      <created>1523287056666</created>
+      <changelist id="7720839c-3bb3-4254-b819-a8c83476ca08" name="Default" comment="" />
+      <created>1523290119915</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1523287056666</updated>
+      <updated>1523290119915</updated>
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestBottle - 2018.04.09 at 16h 34m 57s.xml">
-      <configuration name="TestBottle" configurationId="JUnit" />
+    <history-entry file="All_in_calculator_test - 2018.04.09 at 18h 37m 42s.xml">
+      <configuration name="All in calculator_test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestBottle - 2018.04.09 at 16h 35m 37s.xml">
-      <configuration name="TestBottle" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestBottle_hasVolume - 2018.04.09 at 16h 36m 00s.xml">
-      <configuration name="TestBottle.hasVolume" configurationId="JUnit" />
+    <history-entry file="All_in_calculator_test - 2018.04.09 at 18h 38m 53s.xml">
+      <configuration name="All in calculator_test" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="258" width="1262" height="741" extended-state="1" />
+    <frame x="29" y="23" width="1167" height="741" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" />
@@ -574,14 +540,13 @@
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24287856" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3298351" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.0911252" />
-      <window_info anchor="bottom" id="Build" weight="0.3298351" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.111396745" />
+      <window_info anchor="bottom" id="Build" weight="0.0" />
       <window_info anchor="right" id="Gradle" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -589,6 +554,7 @@
       <window_info anchor="right" id="Theme Preview" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -600,35 +566,37 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/TestBottle.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/CalculatorTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+        <state relative-caret-position="543">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#180#181#0" expanded="true" />
-            <element signature="e#217#218#0" expanded="true" />
-            <element signature="e#260#261#0" expanded="true" />
-            <element signature="e#311#312#0" expanded="true" />
-            <element signature="e#354#355#0" expanded="true" />
+            <element signature="e#145#146#0" expanded="true" />
+            <element signature="e#189#190#0" expanded="true" />
+            <element signature="e#225#226#0" expanded="true" />
+            <element signature="e#242#243#0" expanded="true" />
             <element signature="e#384#385#0" expanded="true" />
-            <element signature="e#442#443#0" expanded="true" />
-            <element signature="e#464#465#0" expanded="true" />
+            <element signature="e#449#450#0" expanded="true" />
+            <element signature="e#490#491#0" expanded="true" />
+            <element signature="e#552#553#0" expanded="true" />
+            <element signature="e#590#591#0" expanded="true" />
+            <element signature="e#650#651#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Bottle.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Calculator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="17" lean-forward="true" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        <state relative-caret-position="135">
+          <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
           <folding>
-            <element signature="e#85#86#0" expanded="true" />
-            <element signature="e#120#121#0" expanded="true" />
-            <element signature="e#154#155#0" expanded="true" />
-            <element signature="e#175#176#0" expanded="true" />
-            <element signature="e#374#375#0" expanded="true" />
-            <element signature="e#400#401#0" expanded="true" />
+            <element signature="e#128#129#0" expanded="true" />
+            <element signature="e#161#162#0" expanded="true" />
+            <element signature="e#300#301#0" expanded="true" />
+            <element signature="e#334#335#0" expanded="true" />
+            <element signature="e#379#380#0" expanded="true" />
+            <element signature="e#413#414#0" expanded="true" />
           </folding>
         </state>
       </provider>
