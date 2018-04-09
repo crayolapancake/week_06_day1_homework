@@ -5,7 +5,8 @@ import static org.junit.Assert.assertEquals;
 
 
 public class TestBottle {
-    Bottle bottle;
+
+   private Bottle bottle;
 
     @Before
     public void before() {
@@ -19,16 +20,20 @@ public class TestBottle {
 
     @Test
     public void takeDrink(){
-        assertEquals(10, this.volume());
+        Bottle.takeDrink;
+        assertEquals(90, bottle.getVolume());
     }
 
     @Test
     public void emptyBottle(){
-        assertEquals(0, bottle.getVolume);
+        Bottle.emptyBottle();
+        assertEquals(0, bottle.getVolume());
     }
 
     @Test
     public void fillBottle(){
+        Bottle.fillBottle();
+        assertEquals(100, bottle.getVolume());
 
     }
 
